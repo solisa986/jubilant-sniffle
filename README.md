@@ -2,4 +2,4 @@
 
 ## a readme to explain nothing
 
-add some text here. i am going to mispell a bnunch of words to be reveiwoed later for fixess.
+I fixed the misspelled words. This should be good for the sample review. Thanks.
