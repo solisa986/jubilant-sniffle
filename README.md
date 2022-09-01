@@ -2,4 +2,4 @@
 
 ## a readme to explain nothing
 
-jdbsogbwihn gjewo pou gewo jgpjpjgej/gr woj vro
+Tehnical description of stuff for the ReadMe.
