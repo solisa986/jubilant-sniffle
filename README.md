@@ -2,4 +2,4 @@
 
 ## a readme to explain nothing
 
-I fixed the misspelled words. This should be good for the sample review. Thanks.
+Tehnical description of stuff for the ReadMe.
